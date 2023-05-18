@@ -38,7 +38,7 @@ nav>a{
     text-decoration: none;
     font-weight: bold;
     transition-duration: 0.5s;
-    padding: 6px;
+    padding: 3px;
 
 }
 nav>a:hover{
