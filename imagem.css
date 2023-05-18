@@ -27,6 +27,8 @@ header>p{
 nav{
     background-color:black ;
     padding: 10px;
+    min-width: 300px;
+    
 
 }
 nav>a{
